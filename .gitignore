@@ -1,5 +1,12 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
